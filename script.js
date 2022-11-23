@@ -1,8 +1,17 @@
+  function signin(){
+    location.replace("signin.html")
+  }
+  function signup(){
+    location.replace("signup.html")
+  }
   function menu(){
     location.replace("menu.html")
   }
   function home(){
     location.replace("index.html")
+  }
+  function home1(){
+    location.replace("index1.html")
   }
   function pay(){
     location.replace("pay.html")

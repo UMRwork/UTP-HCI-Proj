@@ -213,7 +213,53 @@
 	 height: 363px;
 	 z-index:19;
 } 
+#layer_21a
+{ 
+	 left: 1532px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 39px;
+	 z-index:21;
+} 
 
+ #userpfp 
+{ 
+	 left: 1244px; 
+	 top: 5px; 
+	 position: absolute; 
+	 width: 428px;
+	 height: 170px;
+	 z-index:22;
+} 
+.button {
+	border-style: solid;
+  	border-width: 1px;
+	border-color: black;
+	background-color: #4CAF50;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
+  .button1 {
+	border-style: solid;
+  	border-width: 1px;
+	border-color: black;
+	background-color: #374fb6;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
  #TOMENU 
 { 
 	 left: 789px; 
@@ -266,7 +312,7 @@
 
  #Layer101 
 { 
-	 left: 1246px; 
+	 left: 1350px; 
 	 top: 2px; 
 	 position: absolute; 
 	 width: 116px;
