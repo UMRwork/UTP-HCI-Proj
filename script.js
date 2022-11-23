@@ -13,3 +13,6 @@
   function confirmation(){
     location.replace("track.html")
   }
+  function thanks(){
+    location.replace("thanks.html")
+  }
