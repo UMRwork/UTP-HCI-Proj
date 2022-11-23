@@ -1,0 +1,159 @@
+ body {
+	zoom: 75%;
+	left: 46px; 
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 1080px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #layer_1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:1;
+} 
+
+ #layer_2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:2;
+} 
+
+ #Layer167 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 1160px;
+	 z-index:3;
+} 
+
+ #Layer168 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1080px;
+	 z-index:4;
+} 
+
+ #Layer169 
+{ 
+	 left: 337px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1245px;
+	 height: 1080px;
+	 z-index:5;
+} 
+
+ #Layer170 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 402px;
+	 z-index:6;
+} 
+
+ #Layer174 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:7;
+} 
+
+ #Estimatedtimetoarriv 
+{ 
+	 left: 537px; 
+	 top: 137px; 
+	 position: absolute; 
+	 width: 773px;
+	 height: 112px;
+	 z-index:8;
+} 
+
+ #Courier 
+{ 
+	 left: 411px; 
+	 top: 892px; 
+	 position: absolute; 
+	 width: 1108px;
+	 height: 114px;
+	 z-index:9;
+} 
+
+ #Layer171 
+{ 
+	 left: 647px; 
+	 top: 5px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 88px;
+	 z-index:10;
+} 
+
+ #Layer204 
+{ 
+	 left: 742px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 491px;
+	 height: 58px;
+	 z-index:11;
+} 
+
+ #contents 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:12;
+} 
+
+ #Layer173 
+{ 
+	 left: 253px; 
+	 top: 199px; 
+	 position: absolute; 
+	 width: 1433px;
+	 height: 805px;
+	 z-index:13;
+} 
+
+ #confirmationpage 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:14;
+} 

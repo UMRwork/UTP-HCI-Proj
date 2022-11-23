@@ -1,0 +1,259 @@
+ body {
+  zoom: 75%;
+  left: 46px; 
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 1080px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #layer_1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:1;
+} 
+
+ #layer_2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:2;
+} 
+
+ #Layer63 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 1160px;
+	 z-index:3;
+} 
+
+ #Layer64 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1080px;
+	 z-index:4;
+} 
+
+ #Layer124 
+{ 
+	 left: 275px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1369px;
+	 height: 1080px;
+	 z-index:5;
+} 
+
+ #Layer137 
+{ 
+	 left: 491px; 
+	 top: 825px; 
+	 position: absolute; 
+	 width: 879px;
+	 height: 255px;
+	 z-index:6;
+} 
+
+ #ProceedtoPayment 
+{ 
+	 left: 675px; 
+	 top: 997px; 
+	 position: absolute; 
+	 width: 586px;
+	 height: 49px;
+	 z-index:7;
+} 
+
+ #layer_8 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:8;
+} 
+
+ #Layer125 
+{ 
+	 left: 322px; 
+	 top: 231px; 
+	 position: absolute; 
+	 width: 1094px;
+	 height: 717px;
+	 z-index:9;
+} 
+
+ #TotalPrice 
+{ 
+	 left: 350px; 
+	 top: 871px; 
+	 position: absolute; 
+	 width: 316px;
+	 height: 45px;
+	 z-index:10;
+} 
+
+ #Folder132 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:11;
+} 
+
+ #ITEMS 
+{ 
+	 left: 471px; 
+	 top: 164px; 
+	 position: absolute; 
+	 width: 187px;
+	 height: 45px;
+	 z-index:12;
+} 
+
+ #Num 
+{ 
+	 left: 891px; 
+	 top: 117px; 
+	 position: absolute; 
+	 width: 201px;
+	 height: 100px;
+	 z-index:13;
+} 
+
+ #Price 
+{ 
+	 left: 1191px; 
+	 top: 158px; 
+	 position: absolute; 
+	 width: 149px;
+	 height: 45px;
+	 z-index:14;
+} 
+
+ #Cancel 
+{ 
+	 left: 1427px; 
+	 top: 153px; 
+	 position: absolute; 
+	 width: 195px;
+	 height: 45px;
+	 z-index:15;
+} 
+
+ #Layer135 
+{ 
+	 left: 1486px; 
+	 top: 217px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 614px;
+	 z-index:16;
+} 
+
+ #Layer65 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 402px;
+	 z-index:17;
+} 
+
+ #Layer140 
+{ 
+	 left: 161px; 
+	 top: 18px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 59px;
+	 z-index:18;
+} 
+
+ #Layer136 
+{ 
+	 left: 647px; 
+	 top: 5px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 88px;
+	 z-index:19;
+} 
+
+ #Layer202 
+{ 
+	 left: 742px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 491px;
+	 height: 58px;
+	 z-index:20;
+} 
+
+ #Layer141 
+{ 
+	 left: 1419px; 
+	 top: 10px; 
+	 position: absolute; 
+	 width: 433px;
+	 height: 83px;
+	 z-index:21;
+} 
+
+ #Layer143 
+{ 
+	 left: 30px; 
+	 top: 26px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 49px;
+	 z-index:22;
+} 
+
+ #contents 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:23;
+} 
+
+ #checkout 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:24;
+} 

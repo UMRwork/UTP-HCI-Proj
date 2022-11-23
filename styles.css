@@ -1,0 +1,389 @@
+ body {
+  zoom: 75%;
+  left: 46px; 
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 1080px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #layer_1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:1;
+} 
+
+ #layer_2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:2;
+} 
+
+ #Layer59 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 1160px;
+	 z-index:3;
+} 
+
+ #Layer27 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1080px;
+	 z-index:4;
+} 
+
+ #Layer6 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 402px;
+	 z-index:5;
+} 
+
+ #Layer77 
+{ 
+	 left: 21px; 
+	 top: 132px; 
+	 position: absolute; 
+	 width: 336px;
+	 height: 260px;
+	 z-index:6;
+} 
+
+ #CONTACTUS 
+{ 
+	 left: 46px; 
+	 top: 168px; 
+	 position: absolute; 
+	 width: 255px;
+	 height: 193px;
+	 z-index:7;
+} 
+
+ #Layer79 
+{ 
+	 left: 43px; 
+	 top: 196px; 
+	 position: absolute; 
+	 width: 228px;
+	 height: 7px;
+	 z-index:8;
+} 
+
+ #Layer80 
+{ 
+	 left: 7px; 
+	 top: 197px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 50px;
+	 z-index:9;
+} 
+
+ #Layer81 
+{ 
+	 left: 45px; 
+	 top: 287px; 
+	 position: absolute; 
+	 width: 36px;
+	 height: 37px;
+	 z-index:10;
+} 
+
+ #KopiPROJECTOR 
+{ 
+	 left: 616px; 
+	 top: 303px; 
+	 position: absolute; 
+	 width: 753px;
+	 height: 88px;
+	 z-index:11;
+} 
+
+ #Layer25 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:12;
+} 
+
+ #layer_13 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:13;
+} 
+
+ #Layer26 
+{ 
+	 left: 817px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 273px;
+	 height: 284px;
+	 z-index:14;
+} 
+
+ #Layer24 
+{ 
+	 left: 470px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1450px;
+	 height: 889px;
+	 z-index:15;
+} 
+
+ #Layer23 
+{ 
+	 left: 865px; 
+	 top: 16px; 
+	 position: absolute; 
+	 width: 178px;
+	 height: 244px;
+	 z-index:16;
+} 
+
+ #Layer207 
+{ 
+	 left: 814px; 
+	 top: 4px; 
+	 position: absolute; 
+	 width: 281px;
+	 height: 280px;
+	 z-index:17;
+} 
+
+ #logo 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:18;
+} 
+
+ #Layer75 
+{ 
+	 left: 471px; 
+	 top: 278px; 
+	 position: absolute; 
+	 width: 900px;
+	 height: 363px;
+	 z-index:19;
+} 
+
+ #TOMENU 
+{ 
+	 left: 789px; 
+	 top: 430px; 
+	 position: absolute; 
+	 width: 312px;
+	 height: 46px;
+	 z-index:20;
+} 
+
+ #layer_21 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:21;
+} 
+
+ #layer_22 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:22;
+} 
+
+ #Layer92 
+{ 
+	 left: 1505px; 
+	 top: 31px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 39px;
+	 z-index:23;
+} 
+
+ #Layer93 
+{ 
+	 left: 1194px; 
+	 top: 5px; 
+	 position: absolute; 
+	 width: 428px;
+	 height: 170px;
+	 z-index:24;
+} 
+
+ #Layer101 
+{ 
+	 left: 1246px; 
+	 top: 2px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 108px;
+	 z-index:25;
+} 
+
+ #username 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:26;
+} 
+
+ #layer_27 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:27;
+} 
+
+ #Layer31 
+{ 
+	 left: 1518px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 316px;
+	 height: 73px;
+	 z-index:28;
+} 
+
+ #SignupLogin 
+{ 
+	 left: 1528px; 
+	 top: 31px; 
+	 position: absolute; 
+	 width: 297px;
+	 height: 48px;
+	 z-index:29;
+} 
+
+ #login 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:30;
+} 
+
+ #userlogin 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:31;
+} 
+
+ #layer_32 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:32;
+} 
+
+ #Layer11 
+{ 
+	 left: 74px; 
+	 top: 20px; 
+	 position: absolute; 
+	 width: 41px;
+	 height: 59px;
+	 z-index:33;
+} 
+
+ #layer_34 
+{ 
+	 left: 136px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 237px;
+	 height: 37px;
+	 z-index:34;
+} 
+
+ #location 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:35;
+} 
+
+ #contents 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:36;
+} 
+
+ #home 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:37;
+} 

@@ -1,0 +1,399 @@
+ body {
+  zoom: 75%;
+  left: 46px; 
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 1080px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #layer_1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:1;
+} 
+
+ #layer_2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:2;
+} 
+
+ #layer_3 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:3;
+} 
+
+ #Layer62 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1922px;
+	 height: 1160px;
+	 z-index:4;
+} 
+
+ #Layer61 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1080px;
+	 z-index:5;
+} 
+
+ #Layer113 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 687px;
+	 z-index:6;
+} 
+
+ #Layer60 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 402px;
+	 z-index:7;
+} 
+
+ #Layer110 
+{ 
+	 left: 1904px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 1080px;
+	 z-index:8;
+} 
+
+ #MENU 
+{ 
+	 left: 756px; 
+	 top: 229px; 
+	 position: absolute; 
+	 width: 379px;
+	 height: 99px;
+	 z-index:9;
+} 
+
+ #Layer112 
+{ 
+	 left: 750px; 
+	 top: 335px; 
+	 position: absolute; 
+	 width: 392px;
+	 height: 7px;
+	 z-index:10;
+} 
+
+ #Layer114 
+{ 
+	 left: 43px; 
+	 top: 362px; 
+	 position: absolute; 
+	 width: 1825px;
+	 height: 718px;
+	 z-index:11;
+} 
+
+ #bg 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:12;
+} 
+
+ #Layer115 
+{ 
+	 left: 11px; 
+	 top: 72px; 
+	 position: absolute; 
+	 width: 245px;
+	 height: 169px;
+	 z-index:13;
+} 
+
+ #Layer116 
+{ 
+	 left: 60px; 
+	 top: 11px; 
+	 position: absolute; 
+	 width: 1836px;
+	 height: 300px;
+	 z-index:14;
+} 
+
+ #DRINKS 
+{ 
+	 left: 1033px; 
+	 top: 132px; 
+	 position: absolute; 
+	 width: 189px;
+	 height: 39px;
+	 z-index:15;
+} 
+
+ #PROMOTIONSETS 
+{ 
+	 left: 1394px; 
+	 top: 135px; 
+	 position: absolute; 
+	 width: 451px;
+	 height: 38px;
+	 z-index:16;
+} 
+
+ #DESSERT 
+{ 
+	 left: 590px; 
+	 top: 135px; 
+	 position: absolute; 
+	 width: 231px;
+	 height: 38px;
+	 z-index:17;
+} 
+
+ #FOOD 
+{ 
+	 left: 240px; 
+	 top: 136px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 38px;
+	 z-index:18;
+} 
+
+ #layer_19 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:19;
+} 
+
+ #layer_20 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:20;
+} 
+
+ #layer_21 
+{ 
+	 left: 1532px; 
+	 top: 32px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 39px;
+	 z-index:21;
+} 
+
+ #userpfp 
+{ 
+	 left: 1244px; 
+	 top: 5px; 
+	 position: absolute; 
+	 width: 428px;
+	 height: 170px;
+	 z-index:22;
+} 
+
+ #Layer102 
+{ 
+	 left: 1296px; 
+	 top: 2px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 108px;
+	 z-index:23;
+} 
+
+ #username 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:24;
+} 
+
+ #layer_25 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:25;
+} 
+
+ #Layer105 
+{ 
+	 left: 1568px; 
+	 top: 13px; 
+	 position: absolute; 
+	 width: 316px;
+	 height: 73px;
+	 z-index:26;
+} 
+
+ #Layer106 
+{ 
+	 left: 1580px; 
+	 top: 25px; 
+	 position: absolute; 
+	 width: 297px;
+	 height: 48px;
+	 z-index:27;
+} 
+
+ #login 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:28;
+} 
+
+ #user 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:29;
+} 
+
+ #layer_30 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:30;
+} 
+
+ #KMlogo 
+{ 
+	 left: 647px; 
+	 top: 5px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 88px;
+	 z-index:31;
+} 
+
+ #Layer208 
+{ 
+	 left: 646px; 
+	 top: 2px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 92px;
+	 z-index:32;
+} 
+
+ #Layer201 
+{ 
+	 left: 742px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 491px;
+	 height: 58px;
+	 z-index:33;
+} 
+
+ #KM 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:34;
+} 
+
+ #location 
+{ 
+	 left: 161px; 
+	 top: 18px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 59px;
+	 z-index:35;
+} 
+
+ #Layer144 
+{ 
+	 left: 30px; 
+	 top: 26px; 
+	 position: absolute; 
+	 width: 67px;
+	 height: 49px;
+	 z-index:36;
+} 
+
+ #contents 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:37;
+} 
+
+ #menu 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:38;
+} 
