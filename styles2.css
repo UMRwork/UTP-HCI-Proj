@@ -17,6 +17,17 @@
 	 overflow: hidden;
 	 z-index:0;
 	} 
+	
+	#vehicle1{
+		position: absolute; 
+		height: 41px;
+		z-index:10;
+   }
+ #myNumber{
+	 position: absolute; 
+	 height: 41px;
+	 z-index:10;
+}
 
  #layer_1 
 { 

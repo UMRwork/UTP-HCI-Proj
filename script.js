@@ -16,3 +16,9 @@
   function thanks(){
     location.replace("thanks.html")
   }
+  function food(){
+    document.getElementById("fooder").style.opacity = "0.5";
+  }
+  function food(){
+    document.getElementById("fooder").style.opacity = "0.5";
+  }

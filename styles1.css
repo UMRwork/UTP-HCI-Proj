@@ -17,7 +17,13 @@
 	 overflow: hidden;
 	 z-index:0;
 	} 
-
+	#menuing 
+	{ 
+		 left: 0px; 
+		 top: 370px; 
+		 position: absolute; 
+		 z-index:10;
+	} 
  #layer_1 
 { 
 	 left: 0px; 

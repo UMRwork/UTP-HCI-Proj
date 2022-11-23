@@ -17,7 +17,13 @@
 	 overflow: hidden;
 	 z-index:0;
 	} 
-
+ #promotion 
+{ 
+	 position: absolute; 
+	 width: 200px;
+	 height: 400px;
+	 z-index:10;
+} 
  #layer_1 
 { 
 	 left: 0px; 
