@@ -1,0 +1,107 @@
+ body {
+  margin: 0;
+  padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 1080px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #layer_1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:1;
+} 
+
+ #Layer178 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1080px;
+	 z-index:2;
+} 
+
+ #Layer192 
+{ 
+	 left: 484px; 
+	 top: 779px; 
+	 position: absolute; 
+	 width: 897px;
+	 height: 301px;
+	 z-index:3;
+} 
+
+ #BACKTOHOME 
+{ 
+	 left: 803px; 
+	 top: 962px; 
+	 position: absolute; 
+	 width: 311px;
+	 height: 31px;
+	 z-index:4;
+} 
+
+ #Thankyouforusingours 
+{ 
+	 left: 457px; 
+	 top: 514px; 
+	 position: absolute; 
+	 width: 1035px;
+	 height: 113px;
+	 z-index:5;
+} 
+
+ #Layer190 
+{ 
+	 left: 817px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 273px;
+	 height: 284px;
+	 z-index:6;
+} 
+
+ #Layer205 
+{ 
+	 left: 601px; 
+	 top: 298px; 
+	 position: absolute; 
+	 width: 783px;
+	 height: 94px;
+	 z-index:7;
+} 
+
+ #Layer189 
+{ 
+	 left: 592px; 
+	 top: 668px; 
+	 position: absolute; 
+	 width: 735px;
+	 height: 123px;
+	 z-index:8;
+} 
+
+ #thankyoupage 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1px;
+	 height: 1px;
+	 z-index:9;
+} 
